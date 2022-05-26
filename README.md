@@ -24,12 +24,8 @@
     - The container runtime is the software that is responsible for running containers
 
 
-
-## Launch a k8s cluster
-[Details](/lessons/install/index.md)
-
-## Basic commands
-[Details](/lessons/basic-commands/index.md)
-
-## Pods
-[Details](/lessons/pods/index.md)
+## Lessons
+- [Launch a k8s cluster](/lessons/install/index.md)
+- [Basic commands](/lessons/basic-commands/index.md)
+- [Pods](/lessons/pods/index.md)
+- [ReplicaSet](/lessons/replica-set/index.md)

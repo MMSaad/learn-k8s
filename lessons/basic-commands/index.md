@@ -44,3 +44,27 @@ kubectl delete pod examplepod
 kubectl create -f ./file-name
 ```
 
+9. create replica set
+```
+kubectl apply/create -f ./file-name
+```
+10. get cluster replica set(s)
+```
+kubectl get rs
+```
+11. check the state of replica set
+```
+kubectl describe rs/{name}
+```
+12. scale replica set
+```
+kubectl scale rs/{name} --replicas=4
+```
+13. auto-scale replica set
+```
+kubectl autoscale rs frontend --max=10 --min=3 --cpu-percent=50
+```
+14. delete replica set
+```
+kubectl delete rs/{name}
+```
