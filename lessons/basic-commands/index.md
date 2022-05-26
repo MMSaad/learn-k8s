@@ -68,3 +68,7 @@ kubectl autoscale rs frontend --max=10 --min=3 --cpu-percent=50
 ```
 kubectl delete rs/{name}
 ```
+15. list cluster services
+```
+kubectl get service
+```

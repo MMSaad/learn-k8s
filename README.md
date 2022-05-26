@@ -29,3 +29,4 @@
 - [Basic commands](/lessons/basic-commands/index.md)
 - [Pods](/lessons/pods/index.md)
 - [ReplicaSet](/lessons/replica-set/index.md)
+- [Services](/lessons/services/index.md)
