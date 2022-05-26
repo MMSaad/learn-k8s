@@ -30,3 +30,6 @@
 
 ## Basic commands
 [Details](/lessons/basic-commands/index.md)
+
+## Pods
+[Details](/lessons/pods/index.md)
