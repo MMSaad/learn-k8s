@@ -30,3 +30,4 @@
 - [Pods](/lessons/pods/index.md)
 - [ReplicaSet](/lessons/replica-set/index.md)
 - [Services](/lessons/services/index.md)
+- [Deployments](/lessons/deployments/index.md)

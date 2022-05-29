@@ -5,7 +5,7 @@ With Kubernetes you don't need to modify your application to use an unfamiliar s
 
 
 
-## Sample service
+## [Sample service](sample-service.yaml)
 ```yaml
 apiVersion: v1
 kind: Service

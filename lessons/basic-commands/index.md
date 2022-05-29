@@ -72,3 +72,7 @@ kubectl delete rs/{name}
 ```
 kubectl get service
 ```
+16. update deployment image
+```
+kubectl set image deployment.v1.apps/nginx-deployment nginx=darealmc/nginx-k8s:v2
+```
